@@ -17,7 +17,7 @@ A simple, classic snake game built using HTML, CSS, and JavaScript, containerize
 - **Frontend:**
   - HTML5, CSS3, JavaScript
 - **Containerization:**
-  - Docker with Nginx
+  - Docker with Nginx Image
 - **Orchestration:**
   - Kubernetes (AKS)
 
